@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/jiemian1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="简单运算" />
+
+    <Button
+        android:id="@+id/jiemian2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="单位转换" />
+
+    <Button
+        android:id="@+id/jiemian3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="复杂运算" />
+
+    <Button
+        android:id="@+id/jiemian4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="进制转换" />
+</LinearLayout>

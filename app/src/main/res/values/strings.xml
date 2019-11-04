@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JSQ</string>
+    <string name="title_activity_number">Number</string>
+    <string name="title_activity_change">Change</string>
+    <string name="title_activity_science">Science</string>
+    <string name="title_activity_jinzhi">Jinzhi</string>
+</resources>
